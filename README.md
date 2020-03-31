@@ -17,7 +17,7 @@ route/approute.js dosyası içinde tüm yönlendirmeler yer alıyor.
 
 şeklinde veri yollanması gerekiyor.
 
-@@ http://localhost:3000/deneme/guncelle yazıp post işlemi yaparsak database'de istediğimiz deneme verisini düzenleyebiliyoruz.
+@@ http://localhost:3000/deneme/update yazıp post işlemi yaparsak database'de istediğimiz deneme verisini düzenleyebiliyoruz.
 
 {
 
