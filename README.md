@@ -7,7 +7,7 @@ yazmak gerekiyor.
 route/approute.js dosyası içinde tüm yönlendirmeler yer alıyor.
 Örneğin http://localhost:3000/deneme yazıp get işlemi yaparsak database'deki deneme içindeki tüm verileri listeliyor.
 
-http://localhost:3000/deneme yazıp post işlemi yaparsak database'e yeni deneme verisi ekliyor. Ama bunun için 
+@@ http://localhost:3000/deneme yazıp post işlemi yaparsak database'e yeni deneme verisi ekliyor. Ama bunun için 
 
 {
 
@@ -17,7 +17,7 @@ http://localhost:3000/deneme yazıp post işlemi yaparsak database'e yeni deneme
 
 şeklinde veri yollanması gerekiyor.
 
-http://localhost:3000/deneme/guncelle yazıp post işlemi yaparsak database'de istediğimiz deneme verisini düzenleyebiliyoruz.
+@@ http://localhost:3000/deneme/guncelle yazıp post işlemi yaparsak database'de istediğimiz deneme verisini düzenleyebiliyoruz.
 
 {
 
@@ -28,7 +28,7 @@ http://localhost:3000/deneme/guncelle yazıp post işlemi yaparsak database'de i
 
 bunun için hangisini düzenleyeceksek id'de eklememiz gerekiyor.
 
-http://localhost:3000/deneme/delete yazıp post işlemi yaparsak database'de istediğimiz deneme verisini silebiliyoruz.
+@@ http://localhost:3000/deneme/delete yazıp post işlemi yaparsak database'de istediğimiz deneme verisini silebiliyoruz.
 
 {
 
@@ -37,7 +37,7 @@ http://localhost:3000/deneme/delete yazıp post işlemi yaparsak database'de ist
 
 bunun için hangisini sileceksek id'sini yollamamız gerekiyor.
 
-Yukarda yazanlar diğer tüm tablolar için geçerlidir tek değişen şeyler. Tablolara eklenecek güncellenecek verilerdir.
+@@ Yukarda yazanlar diğer tüm tablolar için geçerlidir tek değişen şeyler. Tablolara eklenecek güncellenecek verilerdir.
 Mesela StartUser üzerinde işlem yapmak istiyorsak;
 
 {
