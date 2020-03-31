@@ -10,6 +10,7 @@ route/approute.js dosyası içinde tüm yönlendirmeler yer alıyor.
 http://localhost:3000/deneme yazıp post işlemi yaparsak database'e yeni deneme verisi ekliyor. Ama bunun için 
 
 {
+
 	"firstName" : "qwe1",
 	"lastName" : "qwe2" 
 }
