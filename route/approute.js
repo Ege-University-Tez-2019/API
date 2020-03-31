@@ -12,7 +12,7 @@ module.exports = function(app) {
     app.route('/deneme')
         .get(denemeController.denemeleri_listele)
         .post(denemeController.deneme_ekle);
-    app.route('/deneme/guncelle').post(denemeController.deneme_guncelle);
+    app.route('/deneme/update').post(denemeController.deneme_guncelle);
     app.route('/deneme/delete').post(denemeController.deneme_sil);
 
     app.route('/migration')

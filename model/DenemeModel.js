@@ -17,7 +17,7 @@ Deneme.init({
     }
 }, {
     sequelize,
-    modelName: 'user'
+    modelName: 'deneme'
 });
 
 
