@@ -32,10 +32,10 @@ Yukarda yazanlar diğer tüm tablolar için geçerlidir tek değişen şeyler. T
 Mesela StartUser üzerinde işlem yapmak istiyorsak;
 {
 	"ID" : "1"  ,
-  "Name" : "qwe" ,
-  "Surname" : "qwe"  ,
-  "Email" : "qweqwe@qwe.qwe"  ,
-  "Telephone" : "1231231" ,
-  "Password" :  "12312311"
+	"Name" : "qwe" ,
+	"Surname" : "qwe"  ,
+	"Email" : "qweqwe@qwe.qwe"  ,
+ 	"Telephone" : "1231231" ,
+  	"Password" :  "12312311"
 }
 şeklinde veriler yollanmalıdır. Bu verilere database'den bakılabileceği gibi buradaki model klasörü içindeki dosyalardanda bakılabilir.
