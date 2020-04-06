@@ -7,7 +7,7 @@ var StartUserController = require('../controller/StartUserController.js');
 
 module.exports = function(app) {
     app.get('/', function(req, res) {
-        res.send('Hello Sir')
+        res.send('Hello Sirasdasd')
     });
     app.route('/deneme')
         .get(denemeController.denemeleri_listele)
